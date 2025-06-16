@@ -4,18 +4,14 @@ A simple and responsive weather app built with **React.js** that shows current w
 
 ---
 
-## 🌍 Live Demo
-
-[🔗 View Live Site](https://your-live-demo-link.com)
-
----
+ 
 
 ## 🧰 Tech Stack
 
 | Technology     | Purpose                              |
 |----------------|--------------------------------------|
 | React.js       | Build interactive UI components      |
-| Tailwind CSS   | Style the app responsively           |
+|  CSS   | Style the app responsively           |
 | Axios / Fetch  | Make API requests to OpenWeatherMap  |
 | OpenWeatherMap | Weather data provider                |
 
